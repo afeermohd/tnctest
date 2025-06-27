@@ -1,4 +1,6 @@
-# Privacy Policy
+---
+layout: plain
+---
 
 Please select your language:
 

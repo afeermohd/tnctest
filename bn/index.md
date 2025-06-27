@@ -1,6 +1,5 @@
 ---
-layout: default
-title: গোপনীয়তা নীতি
+layout: plain
 ---
 
 [English](../en/) | [नेपाली](../ne/) | [Bahasa](../id/)

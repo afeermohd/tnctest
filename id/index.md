@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Kebijakan Privasi
+layout: plain
 ---
 
 [English](../en/) | [नेपाली](../ne/) | [বাংলা](../bn/)

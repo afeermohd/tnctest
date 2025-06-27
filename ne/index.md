@@ -1,6 +1,5 @@
 ---
-layout: default
-title: गोपनीयता नीति
+layout: plain
 ---
 
 [English](../en/) | [Bahasa](../id/) | [বাংলা](../bn/)
