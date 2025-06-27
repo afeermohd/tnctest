@@ -3,8 +3,6 @@ layout: plain
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 This Policy was last updated as of June 2022
 Purpose of the Policy
 Noora Health (“NH”) is committed to protecting the privacy of users of the website located at noorahealth.org or any website owned, operated, licensed or controlled by us (collectively, the “Website”). This Privacy Policy describes how we gather and use information about visitors to our Website (“Visitors”). This Privacy Policy applies solely to the information that we collect through the Website. This Privacy Policy does not address personal information that you provide to us in other contexts (e.g., education services or business relationships not handled through the Website).
